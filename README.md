@@ -13,7 +13,6 @@ well as improving on the UI and functionality!
 2. Run these commands in your terminal:
    - cd server
    - npm install
-   - npm run reset
    - npm start
    - [open a new terminal]
    - cd client
