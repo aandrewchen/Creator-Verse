@@ -10,7 +10,7 @@ well as improving on the UI and functionality!
 # How to run this app
 
 1. Clone this repository
-2. Run these commands:
+2. Run these commands in your terminal:
    - cd server
    - npm install
    - npm run reset
