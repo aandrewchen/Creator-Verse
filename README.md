@@ -17,7 +17,7 @@ well as improving on the UI and functionality!
    [open a new terminal]
    cd client
    npm run dev
-3. You should now be on the Log In page!
+3. Make your way to http://localhost:5173 and you should now be on the Log In page!
 4. Enter this test email and password to view a prepopulated home page:
    Email: test@gmail.com
    Password: aggieworkstakehome1
