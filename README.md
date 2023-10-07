@@ -23,4 +23,4 @@ for the backend, and PostgreSQL for the database. I also used Google Firebase fo
   
    - Email #2: test2@gmail.com
    - Password #2: aggieworkstakehome2
-5. You should now see 5 of my favorite content creators! Feel free to play around with the different features available or sign out and create your own account to share your favorite content creators!
+5. You should now see a couple of my favorite content creators! Feel free to play around with the different features available or sign out and create your own account to share your favorite content creators!
