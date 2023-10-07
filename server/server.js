@@ -2,8 +2,8 @@ import express from "express";
 import cors from "cors";
 import "./config/dotenv.js";
 import creatorsRouter from "./routes/creators.js";
-import postUser from "./controllers/postUser.js";
-import postCreators from "./controllers/postCreators.js";
+import addUser from "./controllers/addUser.js";
+import addCreators from "./controllers/addCreators.js";
 import deleteCreator from "./controllers/deleteCreator.js";
 import editCreator from "./controllers/editCreator.js";
 
@@ -14,9 +14,9 @@ app.use(express.json());
 
 app.use("/creators", creatorsRouter);
 
-app.post("/createUser", postUser);
+app.post("/createUser", addUser);
 
-app.post("/addCreator", postCreators);
+app.post("/addCreator", addCreators);
 
 app.post("/deleteCreator", deleteCreator);
 

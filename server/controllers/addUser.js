@@ -1,7 +1,7 @@
 import { pool } from "../config/database.js";
 import expressAsyncHandler from "express-async-handler";
 
-const postUser = expressAsyncHandler(async (req, res) => {
+const addUser = expressAsyncHandler(async (req, res) => {
   console.log(req.body);
   try {
     const updateQuery = `INSERT INTO Users (id, email, post_ids) VALUES ('${req.body.id}', '${req.body.email}', '{}'::text[])`;
@@ -15,4 +15,4 @@ const postUser = expressAsyncHandler(async (req, res) => {
   }
 });
 
-export default postUser;
+export default addUser;
