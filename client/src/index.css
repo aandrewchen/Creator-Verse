@@ -1,0 +1,85 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 0, 0, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+strong {
+  font-size: 40px;
+  color: #f5f5fa;
+}
+
+.blue-title {
+  font-size: 34px;
+  color: #2580cb;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: #db2f2f;
+}
+
+.navbar {
+  color: #e1e1e5;
+  font-weight: 500;
+}
+
+.white-color {
+  color: white;
+}
+
+.form-buttons-grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: #2580cb;
+  color: #e1e1e5;
+  border: 1px solid #2580cb;
+  box-shadow: 1px 1px 2px #1f1f29;
+}
+
+.home-button {
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: #452fe8;
+  color: #e1e1e5;
+  border: 1px solid #452fe8;
+  box-shadow: 1px 1px 2px #1f1f29;
+}
+
+.delete-button {
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: #db2f2f;
+  color: #e1e1e5;
+  border: #db2f2f;
+  box-shadow: 1px 1px 2px #1f1f29;
+}
+
+.three-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 750px;
+  margin-bottom: 30px;
+}
+
+.two-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 500px;
+  margin-bottom: 30px;
+}

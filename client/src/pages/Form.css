@@ -1,0 +1,46 @@
+p {
+    font-size: 24px;
+    color: #E1E1E5;
+    text-align: center;
+}
+
+input {
+    background-color: #E1E1E5;
+    border: 2px solid #2580cb;
+    color: #1F1F29;
+    margin-top: 10px;
+}
+
+textarea {
+    background-color: #E1E1E5;
+    border: 2px solid #2580cb;
+    color: #1F1F29;
+}
+
+label {
+    font-weight: 600;
+    color: #E1E1E5;
+    font-size: 20px;
+}
+
+small {
+    font-weight: 400;
+    color: #E1E1E5;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #2580cb;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #E1E1E5;
+    text-align: center;
+    margin-bottom: 20px;
+}

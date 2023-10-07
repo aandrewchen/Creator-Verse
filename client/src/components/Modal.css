@@ -1,0 +1,19 @@
+.medium-title {
+    color: #E1E1E5;
+    font-size: 30px;
+}
+
+.medium-text {
+    color: #E1E1E5;
+    font-size: 24px;
+}
+
+.secondary {
+    color: #E1E1E5;
+}
+
+.red {
+    background-color: #db2f2f;
+    border: 1px solid #db2f2f;
+    color: #E1E1E5;
+}

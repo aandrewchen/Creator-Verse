@@ -1,0 +1,11 @@
+.creator-links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+.creator-links a {
+    color: #E1E1E5;
+    font-size: 40px;
+}
