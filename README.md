@@ -17,8 +17,10 @@ for the backend, and PostgreSQL for the database. I also used Google Firebase fo
    - npm install
    - npm run dev
 3. Make your way to http://localhost:5173 and you should now be on the Log In page!
-4. Enter this test email and password to view a prepopulated home page:
-   - Email: test@gmail.com
-   - Password: aggieworkstakehome1
+4. Enter these test emails and passwords to view prepopulated home pages for these two test accounts:
+   - Email #1: test@gmail.com
+   - Password #1: aggieworkstakehome1
+  
+   - Email #2: test2@gmail.com
+   - Password #2: aggieworkstakehome2
 5. You should now see 5 of my favorite content creators! Feel free to play around with the different features available or sign out and create your own account to share your favorite content creators!
-   
