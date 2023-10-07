@@ -12,10 +12,12 @@ well as improving on the UI and functionality!
 1. Clone this repository
 2. Run these commands:
    - cd server
+   - npm install
    - npm run reset
    - npm start
    - [open a new terminal]
    - cd client
+   - npm install
    - npm run dev
 3. Make your way to http://localhost:5173 and you should now be on the Log In page!
 4. Enter this test email and password to view a prepopulated home page:
