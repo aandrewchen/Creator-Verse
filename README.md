@@ -24,3 +24,9 @@ for the backend, and PostgreSQL for the database. I also used Google Firebase fo
    - Email #2: test2@gmail.com
    - Password #2: aggieworkstakehome2
 5. You should now see a couple of my favorite content creators! Feel free to play around with the different features available or sign out and create your own account to share your favorite content creators!
+
+# Video Walkthrough
+
+![Creator-Verse](https://github.com/aandrewchen/Creator-Verse/assets/125727520/dd135ec5-53a0-4333-b4dc-10f18be324ce)
+
+Made by Andrew Chen
