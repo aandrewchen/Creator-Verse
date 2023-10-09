@@ -1,7 +1,5 @@
 # Creator-Verse
 
-This is my Software Engineer Take-Home assignment for the AggieWorks Fall 2023 Application!
-
 CreatorVerse is a full-stack web application that that allows users to log in and post their favorite content creators. I used React and Pico.css for the frontend, Express.js
 for the backend, and PostgreSQL for the database. I also used Google Firebase for authentication and Axios for handling HTTP requests/responses. I hope to implement more features in the future so that users can friend each other so they can view each other's favorite content creators! I still have lots to improve on in CreatorVerse, so I am looking forward to fixing any bugs, testing edge cases, as well as improving on the UI and functionality!
 
