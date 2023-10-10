@@ -99,7 +99,7 @@ const EditCreator = () => {
     setName(creatorinfo.creator_name);
     setYoutube_Url(creatorinfo.youtube);
     setTwitter_Url(creatorinfo.twitter);
-    setInsta_Url(creatorinfo.insta);
+    setInsta_Url(creatorinfo.instagram);
     setTikTok_Url(creatorinfo.tiktok);
     setDescription(creatorinfo.description);
     setImageURL(creatorinfo.imageurl);
