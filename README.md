@@ -16,8 +16,8 @@ for the backend, and PostgreSQL for the database. I also used Google Firebase fo
    - npm run dev
 3. Make your way to http://localhost:5173 and you should now be on the Log In page!
 4. Enter these test emails and passwords to view prepopulated home pages:
-   - Email #1: testing@gmail.com
-   - Password #1: testing123!
+   - Email #1: testemail@gmail.com
+   - Password #1: Testing123!@
   
    - Email #2: testing2@gmail.com
    - Password #2: testing456!
